@@ -56,5 +56,5 @@ Regras:
 - Ignorar mensagens vazias.
 - Não é necessário registrar as conversas em planilha ou banco de dados.
 
-Explique quais nós do N8N devem ser utilizados e a lógica de funcionamento do workflow.
+
 ```
